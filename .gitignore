@@ -1,2 +1,8 @@
+# rust
 /target
+
+# node
+/node_modules
+
+# mist
 .DS_STORE
